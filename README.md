@@ -16,7 +16,7 @@
 ### [6. Contributors](#contrib) 
 ### [7. Notes](#notes) 
 
-## <a id = "proj-ob"> 🎯Project Overview </a>
+## <a id = "proj-obv"> 🎯Project Overview </a>
 1. ID-image Generator: One of the features of this product is the ability to create identification card images. These images include a photo of the person, as well as their personal information such as name, date of birth, and ID number.
 
 2. Secured ID-image: the generated output goes a step further in terms of security by incorporating image steganography; an image that contains hidden information or data that can only be accessed by authorized individuals. 
@@ -25,7 +25,7 @@
 
 4. ID-Scanner: The last feature allows it to read and scan and images to seek for concealed information. This will make it easier to verify that the file is authentic and not a falsification.
 
-##  <a id = "proj-ob"> 📈 Objective </a>
+##  <a id = "obj"> 📈 Objective </a>
 The project is aligned with the 17 Sustainable Development Goals (SDG), specifically the following:
 
 > 8th Decent Work and Economic Growth <br>
@@ -39,7 +39,7 @@ The project is aligned with the 17 Sustainable Development Goals (SDG), specific
 
 
 
-##  <a id = "proj-ob"> ⚒️ Tools
+##  <a id = "tools"> ⚒️ Tools </a>
 The following listed tools may be **POSSIBLY** utilized in the project. <br>
 
 - [x] Python <br> 
@@ -49,7 +49,7 @@ The following listed tools may be **POSSIBLY** utilized in the project. <br>
 - [x] Bootstrap <br> 
 - [x] Javascript <br>
 
-##  <a id = "roadm"> 🛣️ Roadmap
+##  <a id = "roadm"> 🛣️ Roadmap </a>
 
 | Goal # | Description | Date 
 | --- | --- | --- | 
@@ -63,7 +63,7 @@ The following listed tools may be **POSSIBLY** utilized in the project. <br>
 
 
 
-##  <a id = "contrib"> 👷‍ Contributors
+##  <a id = "contrib"> 👷‍ Contributors </a>
 
 | Name | Role | E-mail | Other Contacts |
 | --- | --- | --- | --- |
@@ -72,4 +72,4 @@ The following listed tools may be **POSSIBLY** utilized in the project. <br>
 | Lance Andrei Espina | a | a | a |
 | Vince Jericho Abella | a | a | a |
 
-##  <a id = "notes"> 📝 Notes
+##  <a id = "notes"> 📝 Notes </a>
