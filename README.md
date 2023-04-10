@@ -17,6 +17,7 @@
 ### [7. Notes](#notes) 
 
 ## <a id = "proj-obv"> 🎯Project Overview </a>
+ This project is a id-generaeting software etc etc etc 
 1. ID-image Generator: One of the features of this product is the ability to create identification card images. These images include a photo of the person, as well as their personal information such as name, date of birth, and ID number.
 
 2. Secured ID-image: the generated output goes a step further in terms of security by incorporating image steganography; an image that contains hidden information or data that can only be accessed by authorized individuals. 
@@ -34,8 +35,10 @@ The project is aligned with the 17 Sustainable Development Goals (SDG), specific
 
 
 ##  <a id = "how-works"> ❓ How It Works? </a>
-<a id = "steg-info"> - What is Steganography? </a>
-<a id = "code-info"> - Code </a>
+- <a id = "steg-info"> What is Steganography? </a>
+  <p> **TBA** </p>
+- <a id = "code-info"> Code </a>
+  <p> **TBA** </p>
 
 
 
