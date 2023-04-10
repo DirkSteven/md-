@@ -24,10 +24,11 @@
 
 ## 👷‍ Contributors
 
-| Name | Description | Contact |
+| Name | Role | E-mail | Other Contacts |
 | --- | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
+| Dirk Steven E. Javier | Project Leader | dirkjaviermvp@gmail.com | Allonsy -Discord
+| Fhil Joshua Caguicla | - | - | -
+| Lance Andrei Espina | - | - | -
+| Vince Jericho Abella | - | - | -
 
 ## 📝 Notes
