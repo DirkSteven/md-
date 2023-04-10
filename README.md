@@ -6,7 +6,9 @@
 
 ## Project Overview
 
-
+## How It Works? 
+- What is Steganography?  
+- Code
 
 ## Goals
 
