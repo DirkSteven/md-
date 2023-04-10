@@ -9,8 +9,8 @@ insert short descriton
   ### [1. Project Overview](#proj-obv) 
   ### [2. Objective](#obj) 
   ### [3. How It Works?](#how-works)
-  ### [3.1 What Is Steganography]
-  ### [3.2 Code Overview]
+  ### [a. What Is Steganography]
+  ### [b. Code Overview]
   ### [4. Tools](#tools) 
   ### [5. Roadmap](#roadm) 
   ### [6. Contributors](#contrib) 
