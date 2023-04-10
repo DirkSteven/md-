@@ -6,10 +6,10 @@
 
 
 ## Table of Contents
-1. [Project Overview](#proj-obv) 
-2. Objective
-3. How It Works?
-4. Tools
+1. ### [Project Overview](#proj-obv) 
+2. ### Objective
+3. ### How It Works?
+4. ### Tools
 5. Roadmap
 6. Contributors
 7. Notes
