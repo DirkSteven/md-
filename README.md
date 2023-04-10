@@ -19,8 +19,8 @@ insert short descriton
 ## <a id = "proj-ob"> 🎯Project Overview </a>
 
 ## <a id = "obj"> ❓ How It Works? </a> 
-- <a id = "steg-info"> 1. What is Steganography? </a>  
-- <a id = "code-info"> 2. Code </a>
+<a id = "steg-info"> 1. What is Steganography? </a>  
+<a id = "code-info"> 2. Code </a>
 
 ## <a id = "how-works"> 📈 Objective </a>
 The project is aligned with the 17 Sustainable Development Goals (SDG), specifically the following 
