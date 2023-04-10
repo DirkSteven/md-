@@ -50,7 +50,7 @@ The project is aligned with the 17 Sustainable Development Goals (SDG), specific
 <br><br>
 
 
-##  <a id = "tools"> ⚒️ Tools </a><br><br>
+##  <a id = "tools"> ⚒️ Tools </a><br>
 The following listed tools may be **POSSIBLY** utilized in the project. <br>
 
 - [x] Python <br> 
@@ -84,5 +84,7 @@ The following listed tools may be **POSSIBLY** utilized in the project. <br>
 | Lance Andrei Espina | a | a | a |
 | Vince Jericho Abella | a | a | a |
 <br><br>
+
+
 ##  <a id = "notes"> 📝 Notes </a><br>
 <br><br>
