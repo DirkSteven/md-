@@ -18,28 +18,18 @@
 
 
 ## ⚒️ Tools
- The following listed tools may be **POSSIBLY** utilized in the project. <br>
- 
- 
-- [x] Python <br>
-- [x] Flask <br>
-- [x] Django <br>
-- [x] HTML/CSS <br>
-- [x] Bootstrap <br>
-- [x] Javascript <br>
-
 
 
 ## 🛣️ Roadmap
 
 | Goal # | Description | Date 
 | --- | --- | --- | 
-|  1 | System Design | dirkjaviermvp@gmail.com 
-|  2 | Front-end Development | a |
-|  3 | Back-end Development | a | 
-|  4 | Code Integration | a |
-|  5 | Debugging | a |
-|  6 | Documentation | a |
+|  1 | System Design | April 2 |
+|  2 | Front-end Development | April 3-6 |
+|  3 | Back-end Development | April 6-12 | 
+|  4 | Code Integration | April 12-19 |
+|  5 | Debugging | April 20-24 |
+|  6 | Documentation | April 24-26 |
 
 
 
