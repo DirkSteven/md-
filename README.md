@@ -9,8 +9,8 @@ insert short descriton
   ### [1. Project Overview](#proj-obv) 
   ### [2. Objective](#obj) 
   ### [3. How It Works?](#how-works)
- - [a. What Is Steganography]
- - [b. Code Overview]
+ - ####[What Is Steganography](#steg-info)
+ - ####[Code Overview](code-info)
   ### [4. Tools](#tools) 
   ### [5. Roadmap](#roadm) 
   ### [6. Contributors](#contrib) 
@@ -19,8 +19,8 @@ insert short descriton
 ## <a id = "proj-ob"> 🎯Project Overview </a>
 
 ## <a id = "obj"> ❓ How It Works? </a> 
-- What is Steganography?  
-- Code
+- <a id = "steg-info"> What is Steganography? </a>  
+- <a id = "code-info"> Code </a>
 
 ## <a id = "how-works"> 📈 Objective </a>
 The project is aligned with the 17 Sustainable Development Goals (SDG), specifically the following 
