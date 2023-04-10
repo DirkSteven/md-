@@ -27,8 +27,8 @@
 | Name | Role | E-mail | Other Contacts |
 | --- | --- | --- |
 | Dirk Steven E. Javier | Project Leader | dirkjaviermvp@gmail.com | Allonsy -Discord |
-| Fhil Joshua Caguicla | - | - | - |
-| Lance Andrei Espina | - | - | - |
-| Vince Jericho Abella | - | - | - |
+| Fhil Joshua Caguicla | a | a | a |
+| Lance Andrei Espina | a | a | a |
+| Vince Jericho Abella | a | a | a |
 
 ## 📝 Notes
