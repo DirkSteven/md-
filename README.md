@@ -10,7 +10,7 @@
 ### [2. Objective](#obj) 
 ### [3. How It Works?](#how-works) 
 #### - [What Is Steganography](#steg-info)
-#### - [Code Overview](code-info)
+#### - [Code Overview](#code-info)
 ### [4. Tools](#tools) 
 ### [5. Roadmap](#roadm) 
 ### [6. Contributors](#contrib) 
