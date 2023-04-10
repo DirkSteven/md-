@@ -3,7 +3,6 @@
 </p>
 
 # PyCeal
-<br>
 **TBA**
 <br>
 
