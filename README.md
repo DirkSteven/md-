@@ -6,7 +6,7 @@
 
 
 ## Table of Contents
-1. Project Overview
+1. [Project Overview] (#proj-obv) 
 2. Objective
 3. How It Works?
 4. Tools
@@ -14,7 +14,7 @@
 6. Contributors
 7. Notes
 
-## 🎯Project Overview
+## <a id = "proj-ob"> 🎯Project Overview </a>
 
 ## ❓ How It Works? 
 - What is Steganography?  
