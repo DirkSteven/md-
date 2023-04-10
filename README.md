@@ -19,9 +19,9 @@
 ### [6. Contributors](#contrib) 
 ### [7. Notes](#notes) 
 
-<br>
+<br><br>
 
-## <a id = "proj-obv"> 🎯Project Overview </a>
+## <a id = "proj-obv"> 🎯Project Overview </a> <br>
  This project is a id-generaeting software etc etc etc 
 1. ID-image Generator: One of the features of this product is the ability to create identification card images. These images include a photo of the person, as well as their personal information such as name, date of birth, and ID number.
 
@@ -30,8 +30,10 @@
 3. Embed specific "message" in an image: Another feature of this product allows for the embedding of a specific message or authentication code within the image. However, this feature is only accessible to university administrators. It can be utilized to indicate an individual's position within the university.
 
 4. ID-Scanner: The last feature allows it to read and scan and images to seek for concealed information. This will make it easier to verify that the file is authentic and not a falsification.
+<br><br>
 
-##  <a id = "obj"> 📈 Objective </a>
+
+##  <a id = "obj"> 📈 Objective </a><br>
 The project is aligned with the 17 Sustainable Development Goals (SDG), specifically the following:
 
 > 8th Decent Work and Economic Growth <br>
@@ -39,15 +41,16 @@ The project is aligned with the 17 Sustainable Development Goals (SDG), specific
 > 11th Sustainable Cities and Communities <br>
 
 
-##  <a id = "how-works"> ❓ How It Works? </a>
+##  <a id = "how-works"> ❓ How It Works? </a><br>
 - <a id = "steg-info"> What is Steganography? </a>
   <p> <b>TBA</b> </p>
 - <a id = "code-info"> Code </a>
   <p> <b>TBA</b> </p>
 
+<br><br>
 
 
-##  <a id = "tools"> ⚒️ Tools </a>
+##  <a id = "tools"> ⚒️ Tools </a><br><br>
 The following listed tools may be **POSSIBLY** utilized in the project. <br>
 
 - [x] Python <br> 
@@ -57,7 +60,8 @@ The following listed tools may be **POSSIBLY** utilized in the project. <br>
 - [x] Bootstrap <br> 
 - [x] Javascript <br>
 
-##  <a id = "roadm"> 🛣️ Roadmap </a>
+<br><br>
+##  <a id = "roadm"> 🛣️ Roadmap </a> <br>
 
 | Goal # | Description | Date 
 | --- | --- | --- | 
@@ -68,10 +72,10 @@ The following listed tools may be **POSSIBLY** utilized in the project. <br>
 |  5 | Debugging | April 20-24 |
 |  6 | Documentation | April 24-26 |
 
+<br><br>
 
 
-
-##  <a id = "contrib"> 👷‍ Contributors </a>
+##  <a id = "contrib"> 👷‍ Contributors </a> <br>
 
 | Name | Role | E-mail | Other Contacts |
 | --- | --- | --- | --- |
@@ -79,5 +83,6 @@ The following listed tools may be **POSSIBLY** utilized in the project. <br>
 | Fhil Joshua Caguicla | a | a | a |
 | Lance Andrei Espina | a | a | a |
 | Vince Jericho Abella | a | a | a |
-
-##  <a id = "notes"> 📝 Notes </a>
+<br><br>
+##  <a id = "notes"> 📝 Notes </a><br>
+<br><br>
