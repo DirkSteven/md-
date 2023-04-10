@@ -24,7 +24,7 @@
 
 | Goal # | Description | Date 
 | --- | --- | --- | 
-|  1 | System Design | April 2 |
+|  1 | System Design | March 30-April 2 |
 |  2 | Front-end Development | April 3-6 |
 |  3 | Back-end Development | April 6-12 | 
 |  4 | Code Integration | April 12-19 |
