@@ -18,7 +18,14 @@
 
 
 ## ⚒️ Tools
+The following listed tools may be **POSSIBLY** utilized in the project. <br>
 
+- [x] Python <br> 
+- [x] Flask <br> 
+- [x] Django <br> 
+- [x] HTML/CSS <br> 
+- [x] Bootstrap <br> 
+- [x] Javascript <br>
 
 ## 🛣️ Roadmap
 
