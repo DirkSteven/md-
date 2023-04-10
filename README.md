@@ -10,6 +10,10 @@
 - What is Steganography?  
 - Code
 
+## 📈 Objective
+
+
+
 ## 🥅 Goals
 
 
@@ -18,6 +22,6 @@
 ## ⚒️ Tools
 
 
-## 👷‍ ♂️Contributors
+## 👷‍ Contributors
 
 ## 📝 Notes
