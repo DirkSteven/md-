@@ -17,9 +17,19 @@
 ## 🥅 Goals
 
 
+## ⚒️ Tools
+
+
 ## 🛣️ Roadmap
 
-## ⚒️ Tools
+| Goal# | Description | Date 
+| --- | --- | --- | 
+| 1 | System Design | dirkjaviermvp@gmail.com 
+| Fhil Joshua Caguicla | a | a |
+| Lance Andrei Espina | a | a | 
+| Vince Jericho Abella | a | a | 
+
+
 
 
 ## 👷‍ Contributors
