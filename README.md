@@ -3,9 +3,12 @@
 </p>
 
 # PyCeal
+<br>
 **TBA**
+<br>
 
 ## Table of Contents
+<br>
 ### [1. Project Overview](#proj-obv) 
 ### [2. Objective](#obj) 
 ### [3. How It Works?](#how-works) 
@@ -15,6 +18,7 @@
 ### [5. Roadmap](#roadm) 
 ### [6. Contributors](#contrib) 
 ### [7. Notes](#notes) 
+<br>
 
 ## <a id = "proj-obv"> 🎯Project Overview </a>
  This project is a id-generaeting software etc etc etc 
@@ -36,9 +40,9 @@ The project is aligned with the 17 Sustainable Development Goals (SDG), specific
 
 ##  <a id = "how-works"> ❓ How It Works? </a>
 - <a id = "steg-info"> What is Steganography? </a>
-  <p> **TBA** </p>
+  <p> <b>TBA</b> </p>
 - <a id = "code-info"> Code </a>
-  <p> **TBA** </p>
+  <p> <b>TBA</b> </p>
 
 
 
