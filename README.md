@@ -6,13 +6,15 @@
 
 
 ## Table of Contents
-## 1. [Project Overview](#proj-obv) 
-## 2. [Objective](#obj) 
-## 3. [How It Works?](#how-works) 
-## 4. [Tools](#tools) 
-## 5. [Roadmap](#roadm) 
-## 6. [Contributors](#contrib) 
-## 7. [Notes](#notes) 
+### 1. [Project Overview](#proj-obv) 
+### 2. [Objective](#obj) 
+### 3. [How It Works?](#how-works) 
+#### - [What Is Steganography](#steg-info)
+#### - [Code Overview](code-info)
+### 4. [Tools](#tools) 
+### 5. [Roadmap](#roadm) 
+### 6. [Contributors](#contrib) 
+### 7. [Notes](#notes) 
 
 ## <a id = "proj-ob"> 🎯Project Overview </a>
 1. ID-image Generator: One of the features of this product is the ability to create identification card images. These images include a photo of the person, as well as their personal information such as name, date of birth, and ID number.
