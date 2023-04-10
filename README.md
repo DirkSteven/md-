@@ -6,15 +6,15 @@
 
 
 ## Table of Contents
-### 1. [Project Overview](#proj-obv) 
-### 2. [Objective](#obj) 
-### 3. [How It Works?](#how-works) 
+### [1. Project Overview](#proj-obv) 
+### [2. Objective](#obj) 
+### [3. How It Works?](#how-works) 
 #### - [What Is Steganography](#steg-info)
 #### - [Code Overview](code-info)
-### 4. [Tools](#tools) 
-### 5. [Roadmap](#roadm) 
-### 6. [Contributors](#contrib) 
-### 7. [Notes](#notes) 
+### [4. Tools](#tools) 
+### [5. Roadmap](#roadm) 
+### [6. Contributors](#contrib) 
+### [7. Notes](#notes) 
 
 ## <a id = "proj-ob"> 🎯Project Overview </a>
 1. ID-image Generator: One of the features of this product is the ability to create identification card images. These images include a photo of the person, as well as their personal information such as name, date of birth, and ID number.
@@ -25,11 +25,7 @@
 
 4. ID-Scanner: The last feature allows it to read and scan and images to seek for concealed information. This will make it easier to verify that the file is authentic and not a falsification.
 
-## ❓ How It Works? 
-- What is Steganography?  
-- Code
-
-## 📈 Objective
+##  <a id = "proj-ob"> 📈 Objective </a>
 The project is aligned with the 17 Sustainable Development Goals (SDG), specifically the following:
 
 > 8th Decent Work and Economic Growth <br>
@@ -37,10 +33,13 @@ The project is aligned with the 17 Sustainable Development Goals (SDG), specific
 > 11th Sustainable Cities and Communities <br>
 
 
-## 🥅 Goals
+##  <a id = "how-works"> ❓ How It Works? </a>
+<a id = "steg-info"> - What is Steganography? </a>
+<a id = "code-info"> - Code </a>
 
 
-## ⚒️ Tools
+
+##  <a id = "proj-ob"> ⚒️ Tools
 The following listed tools may be **POSSIBLY** utilized in the project. <br>
 
 - [x] Python <br> 
@@ -50,7 +49,7 @@ The following listed tools may be **POSSIBLY** utilized in the project. <br>
 - [x] Bootstrap <br> 
 - [x] Javascript <br>
 
-## 🛣️ Roadmap
+##  <a id = "roadm"> 🛣️ Roadmap
 
 | Goal # | Description | Date 
 | --- | --- | --- | 
@@ -64,7 +63,7 @@ The following listed tools may be **POSSIBLY** utilized in the project. <br>
 
 
 
-## 👷‍ Contributors
+##  <a id = "contrib"> 👷‍ Contributors
 
 | Name | Role | E-mail | Other Contacts |
 | --- | --- | --- | --- |
@@ -73,4 +72,4 @@ The following listed tools may be **POSSIBLY** utilized in the project. <br>
 | Lance Andrei Espina | a | a | a |
 | Vince Jericho Abella | a | a | a |
 
-## 📝 Notes
+##  <a id = "notes"> 📝 Notes
