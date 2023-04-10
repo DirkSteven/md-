@@ -21,7 +21,9 @@
 - Code
 
 ## 📈 Objective
+The project is aligned with the 17 Sustainable Development Goals (SDG), specifically the following 
 
+> SDG etc etc dasdassad
 
 
 ## 🥅 Goals
