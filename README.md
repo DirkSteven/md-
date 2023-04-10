@@ -22,12 +22,14 @@
 
 ## 🛣️ Roadmap
 
-| Goal# | Description | Date 
+| Goal # | Description | Date 
 | --- | --- | --- | 
-| 1 | System Design | dirkjaviermvp@gmail.com 
-| Fhil Joshua Caguicla | a | a |
-| Lance Andrei Espina | a | a | 
-| Vince Jericho Abella | a | a | 
+|  1 | System Design | dirkjaviermvp@gmail.com 
+|  2 | Front-end Development | a |
+|  3 | Back-end Development | a | 
+|  4 | Code Integration | a |
+|  5 | Debugging | a |
+|  6 | Documentation | a |
 
 
 
