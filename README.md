@@ -1,3 +1,7 @@
+<p align = "center">
+  <img src = "LogoP.png" width = "300" height = "300"> 
+</p>
+
 # PyCeal
 
 
