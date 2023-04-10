@@ -6,13 +6,15 @@
 insert short descriton
 
 ## Table of Contents
-  ### 1. [Project Overview](#proj-obv) 
-  ### 2. [Objective](#obj) 
-  ### 3. [How It Works?](#how-works) 
-  ### 4. [Tools](#tools) 
-  ### 5. [Roadmap](#roadm) 
-  ### 6. [Contributors](#contrib) 
-  ### 7. [Notes](#notes) 
+  ### [1. Project Overview](#proj-obv) 
+  ### [2. Objective](#obj) 
+  ### [3. How It Works?](#how-works)
+  ### [3.1 What Is Steganography]
+  ### [3.2 Code Overview]
+  ### [4. Tools](#tools) 
+  ### [5. Roadmap](#roadm) 
+  ### [6. Contributors](#contrib) 
+  ### [7. Notes](#notes) 
 
 ## <a id = "proj-ob"> 🎯Project Overview </a>
 
