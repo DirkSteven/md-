@@ -40,6 +40,7 @@ The project is aligned with the 17 Sustainable Development Goals (SDG), specific
 > 9th Industry, Innovation and Infrastracture <br>
 > 11th Sustainable Cities and Communities <br>
 
+<br>
 
 ##  <a id = "how-works"> ❓ How It Works? </a><br>
 - <a id = "steg-info"> What is Steganography? </a>
