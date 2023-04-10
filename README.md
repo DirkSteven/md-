@@ -4,20 +4,20 @@
 ## Table of Contents
 
 
-## Project Overview
+## 🎯Project Overview
 
-## How It Works? 
+## ❓ How It Works? 
 - What is Steganography?  
 - Code
 
-## Goals
+## 🥅 Goals
 
 
-## Roadmap
+## 🛣️ Roadmap
 
-## Tools
+## ⚒️ Tools
 
 
-## Contributors
+## 👷‍ ♂️Contributors
 
-## Notes
+## 📝 Notes
