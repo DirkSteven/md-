@@ -6,13 +6,13 @@
 
 
 ## Table of Contents
-1. ## [Project Overview](#proj-obv) 
-2. ## Objective
-3. ## How It Works?
-4. ## Tools
-5. Roadmap
-6. Contributors
-7. Notes
+## 1. [Project Overview](#proj-obv) 
+## 2. [Objective](#obj) 
+## 3. [How It Works?](#how-works) 
+## 4. [Tools](#tools) 
+## 5. [Roadmap](#roadm) 
+## 6. [Contributors](#contrib) 
+## 7. [Notes](#notes) 
 
 ## <a id = "proj-ob"> 🎯Project Overview </a>
 
