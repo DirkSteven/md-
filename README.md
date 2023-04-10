@@ -3,32 +3,42 @@
 </p>
 
 # PyCeal
-insert short descriton
+
 
 ## Table of Contents
-  ### [1. Project Overview](#proj-obv) 
-  ### [2. Objective](#obj) 
-  ### [3. How It Works?](#how-works)
- - #### [What Is Steganography](#steg-info)
- - #### [Code Overview](code-info)
-  ### [4. Tools](#tools) 
-  ### [5. Roadmap](#roadm) 
-  ### [6. Contributors](#contrib) 
-  ### [7. Notes](#notes) 
+## 1. [Project Overview](#proj-obv) 
+## 2. [Objective](#obj) 
+## 3. [How It Works?](#how-works) 
+## 4. [Tools](#tools) 
+## 5. [Roadmap](#roadm) 
+## 6. [Contributors](#contrib) 
+## 7. [Notes](#notes) 
 
 ## <a id = "proj-ob"> 🎯Project Overview </a>
+1. ID-image Generator: One of the features of this product is the ability to create identification card images. These images include a photo of the person, as well as their personal information such as name, date of birth, and ID number.
 
-## <a id = "obj"> ❓ How It Works? </a> 
-<a id = "steg-info"> 1. What is Steganography? </a>  
-<a id = "code-info"> 2. Code </a>
+2. Secured ID-image: the generated output goes a step further in terms of security by incorporating image steganography; an image that contains hidden information or data that can only be accessed by authorized individuals. 
 
-## <a id = "how-works"> 📈 Objective </a>
-The project is aligned with the 17 Sustainable Development Goals (SDG), specifically the following 
+3. Embed specific "message" in an image: Another feature of this product allows for the embedding of a specific message or authentication code within the image. However, this feature is only accessible to university administrators. It can be utilized to indicate an individual's position within the university.
 
-> SDG etc etc dasdassad
+4. ID-Scanner: The last feature allows it to read and scan and images to seek for concealed information. This will make it easier to verify that the file is authentic and not a falsification.
+
+## ❓ How It Works? 
+- What is Steganography?  
+- Code
+
+## 📈 Objective
+The project is aligned with the 17 Sustainable Development Goals (SDG), specifically the following:
+
+> 8th Decent Work and Economic Growth <br>
+> 9th Industry, Innovation and Infrastracture <br>
+> 11th Sustainable Cities and Communities <br>
 
 
-## <a id = "tools"> ⚒️ Tools </a>
+## 🥅 Goals
+
+
+## ⚒️ Tools
 The following listed tools may be **POSSIBLY** utilized in the project. <br>
 
 - [x] Python <br> 
@@ -38,8 +48,8 @@ The following listed tools may be **POSSIBLY** utilized in the project. <br>
 - [x] Bootstrap <br> 
 - [x] Javascript <br>
 
-## <a id = "roadm"> 🛣️ Roadmap </a>
-  
+## 🛣️ Roadmap
+
 | Goal # | Description | Date 
 | --- | --- | --- | 
 |  1 | System Design | March 30-April 2 |
@@ -52,7 +62,7 @@ The following listed tools may be **POSSIBLY** utilized in the project. <br>
 
 
 
-## <a id = "contrib">👷‍ Contributors </a>
+## 👷‍ Contributors
 
 | Name | Role | E-mail | Other Contacts |
 | --- | --- | --- | --- |
@@ -61,4 +71,4 @@ The following listed tools may be **POSSIBLY** utilized in the project. <br>
 | Lance Andrei Espina | a | a | a |
 | Vince Jericho Abella | a | a | a |
 
-## <a id = "notes"> 📝 Notes </a>
+## 📝 Notes
