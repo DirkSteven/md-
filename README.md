@@ -21,7 +21,7 @@
  The following listed tools may be **POSSIBLY** utilized in the project. <br>
  
  
-[x] Python
+[x] Python <br>
 [x] Flask
 [x] Django
 [x] HTML/CSS
