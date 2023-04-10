@@ -9,6 +9,7 @@
 
 ## Table of Contents
 <br>
+
 ### [1. Project Overview](#proj-obv) 
 ### [2. Objective](#obj) 
 ### [3. How It Works?](#how-works) 
@@ -18,6 +19,7 @@
 ### [5. Roadmap](#roadm) 
 ### [6. Contributors](#contrib) 
 ### [7. Notes](#notes) 
+
 <br>
 
 ## <a id = "proj-obv"> 🎯Project Overview </a>
