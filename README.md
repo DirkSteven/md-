@@ -6,30 +6,27 @@
 
 
 ## Table of Contents
-## 1. [Project Overview](#proj-obv) 
-## 2. [Objective](#obj) 
-## 3. [How It Works?](#how-works) 
-## 4. [Tools](#tools) 
-## 5. [Roadmap](#roadm) 
-## 6. [Contributors](#contrib) 
-## 7. [Notes](#notes) 
+  ### 1. [Project Overview](#proj-obv) 
+  ### 2. [Objective](#obj) 
+  ### 3. [How It Works?](#how-works) 
+  ### 4. [Tools](#tools) 
+  ### 5. [Roadmap](#roadm) 
+  ### 6. [Contributors](#contrib) 
+  ### 7. [Notes](#notes) 
 
 ## <a id = "proj-ob"> 🎯Project Overview </a>
 
-## ❓ How It Works? 
+## <a id = "obj"> ❓ How It Works? </a> 
 - What is Steganography?  
 - Code
 
-## 📈 Objective
+## <a id = "how-works"> 📈 Objective </a>
 The project is aligned with the 17 Sustainable Development Goals (SDG), specifically the following 
 
 > SDG etc etc dasdassad
 
 
-## 🥅 Goals
-
-
-## ⚒️ Tools
+## <a id = "tools"> ⚒️ Tools </a>
 The following listed tools may be **POSSIBLY** utilized in the project. <br>
 
 - [x] Python <br> 
@@ -39,8 +36,8 @@ The following listed tools may be **POSSIBLY** utilized in the project. <br>
 - [x] Bootstrap <br> 
 - [x] Javascript <br>
 
-## 🛣️ Roadmap
-
+## <a id = "roadm"> 🛣️ Roadmap </a>
+  
 | Goal # | Description | Date 
 | --- | --- | --- | 
 |  1 | System Design | March 30-April 2 |
@@ -53,7 +50,7 @@ The following listed tools may be **POSSIBLY** utilized in the project. <br>
 
 
 
-## 👷‍ Contributors
+## <a id = "contrib">👷‍ Contributors </a>
 
 | Name | Role | E-mail | Other Contacts |
 | --- | --- | --- | --- |
@@ -62,4 +59,4 @@ The following listed tools may be **POSSIBLY** utilized in the project. <br>
 | Lance Andrei Espina | a | a | a |
 | Vince Jericho Abella | a | a | a |
 
-## 📝 Notes
+## <a id = "notes"> 📝 Notes </a>
