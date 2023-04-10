@@ -8,7 +8,6 @@
 <br>
 
 ## Table of Contents
-<br>
 
 ### [1. Project Overview](#proj-obv) 
 ### [2. Objective](#obj) 
