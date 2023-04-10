@@ -18,7 +18,7 @@
 
 
 ## ⚒️ Tools
- The following listed tools may be **POSSIBLY** utilized in the project. 
+ The following listed tools may be **POSSIBLY** utilized in the project. <br>
  
  
 [x] Python
